@@ -1,1 +1,1 @@
-A repository fro Python development exercises
+A repository for Python development exercises
