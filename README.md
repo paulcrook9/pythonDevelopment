@@ -1,2 +1,1 @@
-# pythonDevelopment
-Python development exercises
+A repository fro Python development exercises
